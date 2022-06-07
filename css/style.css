@@ -28,7 +28,7 @@ body {
   padding: 15px 45px;
   border-radius: 10px;
   font-size: 15px;
-  background-color: rgb(226, 207, 207);
+  background-color: rgb(255, 255, 255);
   color: black;
   font-weight: 600;
   transition: all 0.3s ease 0s;
@@ -160,7 +160,7 @@ a:focus {
 .navbar-brand span {
   font-size: 22px;
   font-weight: 700;
-  color: #000000;
+  color: #ffffff;
 }
 
 .custom_nav-container {
@@ -197,7 +197,7 @@ a:focus {
 }
 
 .hero_img-container img {
-  width: 50%;
+  width: 75%;
 }
 
 .hero_detail-box {
@@ -206,7 +206,7 @@ a:focus {
 
 .hero_detail-box h1 {
   font-size: 50px;
-  color:black;
+  color:rgb(255, 255, 255);
   font-weight: 600;
   width: 70%;
 }
